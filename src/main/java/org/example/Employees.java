@@ -11,7 +11,7 @@ public class Employees extends Showroom implements utility {
         System.out.println("Name: "+emp_name);
         System.out.println("Age: "+emp_age);
         System.out.println("Department: "+emp_department);
-        System.out.println("Showroom Name: "+showroom_name);
+       // System.out.println("Showroom Name: "+showroom_name);
 
     }
 
